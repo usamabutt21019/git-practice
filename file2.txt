@@ -1,2 +1,3 @@
 this is second file 
 line2 in file2
+new line add
